@@ -1,0 +1,12 @@
+{
+  "name": "enem",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/css/styles.css -o ./src/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
